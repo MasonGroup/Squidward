@@ -1,35 +1,35 @@
-# 🦑 **Squidward Virus** 🦑
+# 🦑 **SQUIDWARD VIRUS** 🦑
 
-> **Warning:** This project describes a highly dangerous virus created for experimental and entertainment purposes. The developer assumes no responsibility for any unethical or illegal use.
+> **WARNING:** THIS PROJECT DESCRIBES A HIGHLY DANGEROUS VIRUS CREATED FOR EXPERIMENTAL AND ENTERTAINMENT PURPOSES. THE DEVELOPER ASSUMES NO RESPONSIBILITY FOR ANY UNETHICAL OR ILLEGAL USE.
 
-## ⚠️ **What is Squidward Virus?**
+## ⚠️ **WHAT IS SQUIDWARD VIRUS?**
 
-**Squidward Virus** is a terrifying program written in **C#** by the developer **ABOLHB**.  
-It delivers a horror-themed digital experience that includes:
+**SQUIDWARD VIRUS** IS A TERRIFYING PROGRAM WRITTEN IN **C#** BY THE DEVELOPER **ABOLHB**.  
+IT DELIVERS A HORROR-THEMED DIGITAL EXPERIENCE THAT INCLUDES:
 
-1. **Appearance of a Creepy Squidward:**  
-   A haunting image of **Squidward** suddenly appears in the center of the screen, designed to frighten the user.  
+1. **APPEARANCE OF A CREEPY SQUIDWARD:**  
+   A HAUNTING IMAGE OF **SQUIDWARD** SUDDENLY APPEARS IN THE CENTER OF THE SCREEN, DESIGNED TO FRIGHTEN THE USER.  
 
-2. **Disturbing GDI Effects:**  
-   The virus applies visual screen distortions using GDI that resemble old TV static.  
-   ![GDI Effect](https://i.ibb.co/gdzXvgV/image.png)
+2. **DISTURBING GDI EFFECTS:**  
+   THE VIRUS APPLIES VISUAL SCREEN DISTORTIONS USING GDI THAT RESEMBLE OLD TV STATIC.  
+   ![GDI EFFECT](https://i.ibb.co/gdzXvgV/image.png)
 
-3. **MBR Manipulation:**  
-   It modifies the Master Boot Record (MBR) to display a custom image during boot-up.  
-   ![MBR Image](https://i.ibb.co/Lxnys7g/image.png)
+3. **MBR OVERWRITE:**  
+   IT MODIFIES THE MASTER BOOT RECORD (MBR) TO DISPLAY A CUSTOM IMAGE DURING BOOT-UP.  
+   ![MBR IMAGE](https://i.ibb.co/Lxnys7g/image.png)
 
-## 🛠 **Technical Details**
-- **Language:** C#  
-- **Developer:** ABOLHB  
-- **Source Code:** Closed source  
+## 🛠 **TECHNICAL DETAILS**
+- **LANGUAGE:** C#  
+- **DEVELOPER:** ABOLHB  
+- **SOURCE CODE:** CLOSED SOURCE  
 
-The virus combines screen distortion effects, unexpected visual jumpscares, and low-level system changes to deliver a chilling experience.
+THE VIRUS COMBINES SCREEN DISTORTION EFFECTS, UNEXPECTED VISUAL JUMPSCARES, AND LOW-LEVEL SYSTEM CHANGES TO DELIVER A CHILLING EXPERIENCE.
 
-## 🎥 **Watch the Virus in Action**
-Check out the showcase video here:  
-[![Watch on YouTube]](https://youtu.be/B81F25ectlc?si=G-zvsk9Qj_jPW_c_abolhb)
+## 🎥 **WATCH THE VIRUS IN ACTION**
+CHECK OUT THE SHOWCASE VIDEO HERE:  
+[![WATCH ON YOUTUBE](https://img.youtube.com/vi/t8eEeWLR0Hs/0.jpg)](https://youtu.be/t8eEeWLR0Hs?si=szCbukbdTKyk9vDU=abolhb)
 
-## ❌ **Disclaimer**
-The developer does not condone the use of this software for malicious purposes. **This virus is designed for experimental purposes only.** Use it responsibly and never deploy it on systems without explicit permission.
+## ❌ **DISCLAIMER**
+THE DEVELOPER DOES NOT CONDONE THE USE OF THIS SOFTWARE FOR MALICIOUS PURPOSES. **THIS VIRUS IS DESIGNED FOR EXPERIMENTAL PURPOSES ONLY.** USE IT RESPONSIBLY AND NEVER DEPLOY IT ON SYSTEMS WITHOUT EXPLICIT PERMISSION.
 
-**💀 Once it starts, there’s no going back… 💀**
+**💀 ONCE IT STARTS, THERE’S NO GOING BACK 💀**
